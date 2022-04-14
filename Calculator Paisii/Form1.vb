@@ -1,11 +1,11 @@
 ﻿Public Class Form1
-    Dim Nigerian_Naira As Double = 247.87
-    Dim Usa_Dollar As Double = 0.62
-    Dim Kenyan_Shilling As Double = 68.61
-    Dim Brazilian_Real As Double = 3.38
-    Dim Indonesian_Rupiah As Double = 8834.27
-    Dim Indian_Rupee As Double = 45.86
-    Dim Philippine_Peso As Double = 30.03
+    Dim Nigerian_Naira As Double = 0.0044
+    Dim Usa_Dollar As Double = 1.81
+    Dim Kenyan_Shilling As Double = 0.016
+    Dim Brazilian_Real As Double = 0.38
+    Dim Indonesian_Rupiah As Double = 0.00013
+    Dim Indian_Rupee As Double = 0.024
+    Dim Philippine_Peso As Double = 0.035
 
     Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
         Timer1.Enabled = True
